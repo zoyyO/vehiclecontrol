@@ -1,5 +1,5 @@
 # vehiclecontrol
-Système de contrôle de véhicule FiveM complet.
+Système de contrôle de véhicule FiveM.
 Créateur : zoyy0#3385
 -
 Système de contrôle de véhicule "non-aérien", vous pouvez ouvrir en fermé les éléments que vous souhaitez via les commmandes :
